@@ -1,0 +1,22 @@
+{
+  "name": "mapox",
+  "version": "1.0.0",
+  "description": "Data visualization of every city in the world",
+  "keywords": ["nuxt", "vue", "threejs", "typescript", "html", "css", "javascript", "ssr"],
+  "author": "Tran Nguyen Thuong Truong",
+  "license": "MIT",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "three": "^0.152.2"
+  }
+}
